@@ -1,0 +1,3 @@
+[console_scripts]
+jp = aruco_follow.follow_exam:main
+

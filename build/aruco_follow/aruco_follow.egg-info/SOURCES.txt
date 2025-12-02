@@ -1,0 +1,13 @@
+package.xml
+setup.cfg
+setup.py
+aruco_follow/__init__.py
+aruco_follow/follow_exam.py
+aruco_follow.egg-info/PKG-INFO
+aruco_follow.egg-info/SOURCES.txt
+aruco_follow.egg-info/dependency_links.txt
+aruco_follow.egg-info/entry_points.txt
+aruco_follow.egg-info/requires.txt
+aruco_follow.egg-info/top_level.txt
+aruco_follow.egg-info/zip-safe
+resource/aruco_follow

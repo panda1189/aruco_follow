@@ -1,0 +1,17 @@
+[0.744s] Invoking command in '/home/storagy/example_hongjunpyo/build/aruco_follow': PYTHONPATH=/home/storagy/example_hongjunpyo/build/aruco_follow/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/storagy/example_hongjunpyo/install/aruco_follow/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/storagy/example_hongjunpyo/build/aruco_follow/build --no-deps symlink_data
+[1.047s] running develop
+[1.276s] running egg_info
+[1.277s] writing aruco_follow.egg-info/PKG-INFO
+[1.277s] writing dependency_links to aruco_follow.egg-info/dependency_links.txt
+[1.277s] writing entry points to aruco_follow.egg-info/entry_points.txt
+[1.277s] writing requirements to aruco_follow.egg-info/requires.txt
+[1.277s] writing top-level names to aruco_follow.egg-info/top_level.txt
+[1.280s] reading manifest file 'aruco_follow.egg-info/SOURCES.txt'
+[1.285s] writing manifest file 'aruco_follow.egg-info/SOURCES.txt'
+[1.288s] running build_ext
+[1.289s] Creating /home/storagy/example_hongjunpyo/install/aruco_follow/lib/python3.10/site-packages/aruco-follow.egg-link (link to .)
+[1.289s] Installing jp script to /home/storagy/example_hongjunpyo/install/aruco_follow/lib/aruco_follow
+[1.290s] 
+[1.290s] Installed /home/storagy/example_hongjunpyo/build/aruco_follow
+[1.290s] running symlink_data
+[1.327s] Invoked command in '/home/storagy/example_hongjunpyo/build/aruco_follow' returned '0': PYTHONPATH=/home/storagy/example_hongjunpyo/build/aruco_follow/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/storagy/example_hongjunpyo/install/aruco_follow/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/storagy/example_hongjunpyo/build/aruco_follow/build --no-deps symlink_data
